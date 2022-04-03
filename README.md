@@ -1,4 +1,4 @@
-## Olá! Eu sou o Goku ... 🤣😁 Muito prazer sou o JonatasAS
+## Olá! Eu sou o Goku ... 🤣😁 Muito prazer sou o JonatasAS.
 
 - 🔭 Hoje trabalho como analista de suporte
 - 🌱 Estudando C#, Javascript, React
