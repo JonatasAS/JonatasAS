@@ -1,7 +1,7 @@
 ## Olá! Muito prazer sou o JonatasAS. 😁
 
 - 🔭 Hoje trabalho como analista de suporte
-- 🌱 Estudando C#, Javascript, React
+- 🌱 Estudando C#, React, NodeJs
 - 😄 Pronouns: ele/dele
 
 <div align="center">
