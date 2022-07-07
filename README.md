@@ -1,4 +1,4 @@
-## Olá! Muito prazer sou o JonatasAS.
+## Olá! Muito prazer sou o JonatasAS.😁
 
 - 🔭 Hoje trabalho como analista de suporte
 - 🌱 Estudando C#, JS, React, NodeJs
