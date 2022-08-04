@@ -1,8 +1,8 @@
-## Olá! Muito prazer sou o Jonatas Amorim.
+## Hi! Nice to meet you, I'm Jonatas Amorim.
 
-- 🔭 Hoje trabalho como analista de suporte
-- 🌱 Aprimorando meus conhecimentos em C#, JS, React, NodeJs
-- 😄 Pronouns: ele/dele
+- 🔭 Today I work as a support analyst
+- 🌱 Improving my knowledge in C#, JS, React, NodeJs
+- 😄 Currently studying full stack development at https://www.rocketseat.com.br/
 
 <div align="center">
   <a href="https://github.com/JonatasAS">
@@ -18,6 +18,7 @@
   <img align="center" alt="Jas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Jas-NodeJs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">  
 </div>
   
   ##
