@@ -1,7 +1,7 @@
 ## Hi! Nice to meet you, I'm Jonatas Amorim.
 
 - 🔭 Today I work as a support analyst
-- 🌱 Improving my knowledge in JS, React, NodeJs
+- 🌱 Improving my knowledge in JS, React, NodeJs, SQL
 - 😄 Currently studying full stack development at https://www.rocketseat.com.br/
 
   <div style="display: inline_block"><br>
