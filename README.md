@@ -1,7 +1,7 @@
 ## Hi! Nice to meet you, I'm Jonatas Amorim.
 
 - 🔭 Today I work as a support and infrastructure analyst, but since 2021 I have been studying and developing technology projects and market practices.
-- 🌱 Improving my knowledge with languages ​​and their libraries, currently with JS, TS, React, NodeJs, SQL.
+- 🌱 Improving my knowledge with languages ​​and their libraries, currently with JS, TS, React, NodeJs, SQL, C#.
 - 😄 Currently studying full stack development at https://www.rocketseat.com.br/
 
   <div style="display: inline_block"><br>
